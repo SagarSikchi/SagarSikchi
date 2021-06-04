@@ -16,3 +16,4 @@ Here are some ideas to get you started: -->
 ### Want to see my blogs❓🔥
 - [Comparative Study of Different Desktop Operating Systems](https://sikchisagar9330.medium.com/comparative-study-of-different-desktop-operating-systems-1de58212c32d)
 - [Artificial Intelligence and Blockchain Technology](https://sikchisagar9330.medium.com/artificial-intelligence-and-blockchain-technology-6750c2f5cfbc)
+- [IPv6 Technology for IoT](https://sikchisagar9330.medium.com/ipv6-technology-for-iot-237e4ccdd7fa)
