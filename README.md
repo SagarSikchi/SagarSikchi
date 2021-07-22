@@ -2,7 +2,9 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=SagarSikchi alt=SagarSikchi/></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sagarsikchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-sikchi/)](https://www.linkedin.com/in/sagar-sikchi/)   [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=React&logoColor=white&link=https://www.linkedin.com/in/sagar-sikchi/)]()
+[![Linkedin Badge](https://img.shields.io/badge/-sagarsikchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-sikchi/)](https://www.linkedin.com/in/sagar-sikchi/)
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-sagarsikchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-sikchi/)](https://www.linkedin.com/in/sagar-sikchi/)   [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=React&logoColor=white&link=https://www.linkedin.com/in/sagar-sikchi/)]() -->
 
 
 <!--
