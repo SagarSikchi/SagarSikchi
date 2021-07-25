@@ -35,7 +35,7 @@ Here are some ideas to get you started: -->
 
 <br/>
 
-[![Sagar Sikchi’s GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SagarSikchi&theme=react-dark&hide_border=true)](https://github.com/SagarSikchi/)
+<!-- [![Sagar Sikchi’s GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SagarSikchi&theme=react-dark&hide_border=true)](https://github.com/SagarSikchi/) -->
 
 
 
