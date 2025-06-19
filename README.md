@@ -13,10 +13,10 @@ Here are some ideas to get you started: -->
 <!-- 
 - 🤔 I’m looking for help with ... 
 -->
-- 🔭 I’m currently studying at [Vishwakarma Institute of Technology, Pune](http://www.vit.edu/).
-- 🌱 I’m currently learning as an Information Technology student.
+- 🔭 I’ve studied at [Vishwakarma Institute of Technology, Pune](http://www.vit.edu/).
+- 🌱 I’m currently working as a Software Engineer.
 - 👯 I’m looking to collaborate on Open Source projects.
-- 📫 How to reach me: contact me via [Mail](mailto:sikchisagar9330@gmail.com), [Linkedin](https://www.linkedin.com/in/sagar-sikchi/), [Instagram](https://www.instagram.com/sikchisagar/), [Twitter](https://twitter.com/sikchisagar).
+- 📫 How to reach me: contact me via [Mail](mailto:sikchisagar9330@gmail.com), [Linkedin](https://www.linkedin.com/in/sagar-sikchi/), [Twitter](https://twitter.com/sikchisagar).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I like to play [Chess](https://lichess.org/@/TowardsInfinity).
 
