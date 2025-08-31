@@ -16,9 +16,9 @@ Here are some ideas to get you started: -->
 - 🔭 I’ve studied at [Vishwakarma Institute of Technology, Pune](http://www.vit.edu/).
 - 🌱 I’m currently working as a Software Engineer.
 - 👯 I’m looking to collaborate on Open Source projects.
-- 📫 How to reach me: contact me via <!-- [Mail](mailto:sikchisagar9330@gmail.com), -->[Linkedin](https://www.linkedin.com/in/sagar-sikchi/), [Twitter](https://twitter.com/sikchisagar).
+- 📫 How to reach me: contact me via <!-- [Mail](mailto:sikchisagar9330@gmail.com), -->[Linkedin](https://www.linkedin.com/in/sagar-sikchi/), [Twitter](https://x.com/dkeendeveloper).
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I like to play [Chess](https://lichess.org/@/TowardsInfinity).
+- ⚡ Fun fact: I like to play [Chess](https://www.chess.com/member/rr1105841).
 
 
 # **Languages and Tools:**
