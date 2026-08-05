@@ -14,7 +14,7 @@ Senior Backend Engineer specialized in building high-throughput, scalable enterp
 - Architecting asynchronous, event-driven data processing workflows.
 - Exploring Model Context Protocol (MCP) and integrating LLMs into enterprise Java applications.
 
-
+<!--
 <div align="center">
   <a >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarSikchi&theme=black-ice&hide_border=true" width="800">
@@ -33,5 +33,7 @@ Senior Backend Engineer specialized in building high-throughput, scalable enterp
   </a>
 </div>
 <br>
+
+-->
 
 
